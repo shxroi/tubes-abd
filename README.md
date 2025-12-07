@@ -1585,7 +1585,7 @@ docker run -p 8501:8501 vgsales-dashboard
 
 ## 👥 Contributors
 
-- **Kelompok 7** - ABD Praktikum Semester 5
+- **Kelompok 7** - Analisis Basis Data
 - Database Design: Normalized Schema
 - Frontend: Streamlit Dashboard
 - Data: 100 Game Titles with Realistic Sales
@@ -1594,10 +1594,10 @@ docker run -p 8501:8501 vgsales-dashboard
 
 ## 📄 License
 
-This project is for educational purposes at the Universitas Padjadjaran.
+This project is for educational purposes at the Institut Teknologi Kalimantan
 
 ---
 
 **Last Updated:** December 8, 2025  
 **Status:** ✅ Production Ready  
-**Dashboard URL:** http://localhost:8501 (Local) or Streamlit Cloud (Production)
+**Dashboard URL:** https://tubes-abd7.streamlit.app/ (Production)
